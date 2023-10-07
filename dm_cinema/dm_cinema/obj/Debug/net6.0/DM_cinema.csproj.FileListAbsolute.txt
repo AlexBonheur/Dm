@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\bin\Debug\net6.0\DM_cinema.exe
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\bin\Debug\net6.0\DM_cinema.deps.json
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\bin\Debug\net6.0\DM_cinema.runtimeconfig.json
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\bin\Debug\net6.0\DM_cinema.dll
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\bin\Debug\net6.0\DM_cinema.pdb
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.dll
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\refint\DM_cinema.dll
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.pdb
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\DM_cinema.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\DM_cinema\DM_cinema\obj\Debug\net6.0\ref\DM_cinema.dll

@@ -1,0 +1,4 @@
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\dm_cinema\dm_cinema\obj\Debug\net7.0\dm_cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\dm_cinema\dm_cinema\obj\Debug\net7.0\dm_cinema.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\dm_cinema\dm_cinema\obj\Debug\net7.0\dm_cinema.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Documents\BTS\c#\DM\dm_cinema\dm_cinema\obj\Debug\net7.0\dm_cinema.csproj.CoreCompileInputs.cache
